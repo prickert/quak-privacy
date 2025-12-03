@@ -1,0 +1,2 @@
+# quak-privacy
+Privacy policy
